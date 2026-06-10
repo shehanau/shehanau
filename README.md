@@ -88,6 +88,7 @@ The Secure Hybrid Fabric portfolio currently includes:
 
 LinkedIn
 https://www.linkedin.com/in/shehandondeenu/
+[![GitViewsMap](https://vercel.app)](https://vercel.app)
 
 GitHub
 https://github.com/shehanau
