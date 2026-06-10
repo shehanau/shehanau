@@ -1,7 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/shehanau/shehanau/main/images/banner.png)
 
-# Shehan
-
 Infrastructure Engineer specialising in enterprise networking, cloud platforms, security, endpoint management, and operational technology across government, education, healthcare, and commercial environments.
 
 ---
