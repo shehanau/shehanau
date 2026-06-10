@@ -1,4 +1,7 @@
-# Shehan A.
+![Banner](images/banner.png)
+
+
+# Shehan 
 
 ### Infrastructure • Networking • Cloud • Security
 
