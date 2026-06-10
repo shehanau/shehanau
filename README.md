@@ -1,4 +1,3 @@
-## Hi there 👋
 # I'm Shehan 👋
 
 ## Network & Cloud Engineer
@@ -37,9 +36,7 @@ Building practical infrastructure, cloud and security solutions.
 | Ops Management | 🚧 In Progress |
 
 ---
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-![Portfolio](https://img.shields.io/badge/Portfolio-Enterprise-blue)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
+
 ## Technologies
 
 Cisco • UniFi • Azure • AWS • Linux • Docker • GitHub
@@ -48,5 +45,5 @@ Cisco • UniFi • Azure • AWS • Linux • Docker • GitHub
 
 ## Connect
 
-- LinkedIn: Add Link Here
-- Website: Add Link Here
+- LinkedIn: https://www.linkedin.com/in/shehandondeenu/
+- Website: shehan.cloud
