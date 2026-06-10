@@ -1,16 +1,52 @@
 ## Hi there 👋
+# I'm Shehan 👋
 
-<!--
-**shehanau/shehanau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Network & Cloud Engineer
 
-Here are some ideas to get you started:
+Building practical infrastructure, cloud and security solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- Enterprise Networking
+- Cloud Infrastructure
+- Network Security
+- Endpoint Management
+- Operations Management
+- Automation
+
+---
+
+## Certifications
+
+- CCNA (In Progress)
+- AZ-900
+- SC-900
+- Security+
+- Baseline Clearance (Planned)
+
+---
+
+## Current Projects
+
+| Project | Status |
+|----------|----------|
+| Network Underlay | 🚧 In Progress |
+| Security Overlay | 🚧 In Progress |
+| Cloud Extensions | 🚧 In Progress |
+| Endpoint Control | 🚧 In Progress |
+| Ops Management | 🚧 In Progress |
+
+---
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Portfolio](https://img.shields.io/badge/Portfolio-Enterprise-blue)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
+## Technologies
+
+Cisco • UniFi • Azure • AWS • Linux • Docker • GitHub
+
+---
+
+## Connect
+
+- LinkedIn: Add Link Here
+- Website: Add Link Here
