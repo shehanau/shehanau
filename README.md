@@ -1,6 +1,6 @@
 ![Banner](images/banner.png)
 https://raw.githubusercontent.com/shehanau/shehanau/main/images/banner.png
-
+<img src="https://raw.githubusercontent.com/shehanau/shehanau/main/images/banner.png" width="100%">
 # Shehan 
 
 ### Infrastructure • Networking • Cloud • Security
