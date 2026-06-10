@@ -1,49 +1,64 @@
-# I'm Shehan 👋
+# Shehan A.
 
-## Network & Cloud Engineer
+### Infrastructure • Networking • Cloud • Security
 
-Building practical infrastructure, cloud and security solutions.
+Infrastructure and Cloud Engineer with experience delivering enterprise networking, cloud migration, security, and operational technology projects across government, education, healthcare, and commercial environments.
 
-### Areas of Interest
+---
 
-- Enterprise Networking
-- Cloud Infrastructure
-- Network Security
-- Endpoint Management
+## Current Portfolio
+
+### Secure Hybrid Fabric
+
+Enterprise architecture portfolio covering:
+
+- Network Underlay
+- Security Overlay
+- Cloud Extensions
+- Endpoint Control
 - Operations Management
-- Automation
-
----
-
-## Certifications
-
-- CCNA (In Progress)
-- AZ-900
-- SC-900
-- Security+
-- Baseline Clearance (Planned)
-
----
-
-## Current Projects
-
-| Project | Status |
-|----------|----------|
-| Network Underlay | 🚧 In Progress |
-| Security Overlay | 🚧 In Progress |
-| Cloud Extensions | 🚧 In Progress |
-| Endpoint Control | 🚧 In Progress |
-| Ops Management | 🚧 In Progress |
 
 ---
 
 ## Technologies
 
-Cisco • UniFi • Azure • AWS • Linux • Docker • GitHub
+### Networking
+Cisco • Fortinet • SD-WAN • BGP • VLANs • QoS • VPN
+
+### Cloud
+Azure • AWS • Microsoft 365 • Entra ID
+
+### Security
+IAM • ACLs • IPS • MFA • Conditional Access
+
+### Systems
+Windows Server • VMware • Hyper-V • Active Directory
+
+### Endpoint Management
+Intune • SCCM • MDT • JAMF
+
+---
+
+## Featured Repository
+
+🔹 Secure Hybrid Fabric
+
+A practical enterprise infrastructure portfolio demonstrating architecture, implementation, migration, security, and operational practices.
+
+---
+
+## Certifications
+
+- AZ-900
+- SC-900
+- Security+
+- CCNA - Expired (In Progress)
+- CCNP - Expired (In Progress)
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/shehandondeenu/
-- Website: shehan.cloud
+LinkedIn: https://www.linkedin.com/in/shehandondeenu/
+
+GitHub: https://github.com/shehanau
