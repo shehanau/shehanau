@@ -1,64 +1,93 @@
-# Shehan A.
+![Banner](https://raw.githubusercontent.com/shehanau/shehanau/main/images/banner.png)
 
-### Infrastructure • Networking • Cloud • Security
-
-Infrastructure and Cloud Engineer with experience delivering enterprise networking, cloud migration, security, and operational technology projects across government, education, healthcare, and commercial environments.
+Infrastructure Engineer specialising in enterprise networking, cloud platforms, security, endpoint management, and operational technology across government, education, healthcare, and commercial environments.
 
 ---
 
-## Current Portfolio
+## Portfolio
 
 ### Secure Hybrid Fabric
 
-Enterprise architecture portfolio covering:
+Enterprise infrastructure architecture portfolio focused on modern networking, security, cloud integration, endpoint governance, and operational management.
 
-- Network Underlay
-- Security Overlay
-- Cloud Extensions
-- Endpoint Control
-- Operations Management
+Repository:
+
+https://github.com/shehanau/secure-hybrid-fabric
+
+### Architecture Domains
+
+| Domain                | Focus                                                         |
+| --------------------- | ------------------------------------------------------------- |
+| Network Underlay      | Routing, Switching, Wireless, BGP, VLAN Design, IP Addressing |
+| Security Overlay      | Firewall Architecture, Zero Trust, NAC, Segmentation          |
+| Cloud Extensions      | Azure, Entra ID, Hybrid Cloud, Governance                     |
+| Endpoint Control      | Intune, Compliance, Hardening, EDR                            |
+| Operations Management | Monitoring, ITSM, Automation, Runbooks                        |
+
+### Direct Links
+
+| Area                  | Repository                                                                     |
+| --------------------- | ------------------------------------------------------------------------------ |
+| Network Underlay      | https://github.com/shehanau/secure-hybrid-fabric/tree/main/01-network-underlay |
+| Security Overlay      | https://github.com/shehanau/secure-hybrid-fabric/tree/main/02-security-overlay |
+| Cloud Extensions      | https://github.com/shehanau/secure-hybrid-fabric/tree/main/03-cloud-extensions |
+| Endpoint Control      | https://github.com/shehanau/secure-hybrid-fabric/tree/main/04-endpoint-control |
+| Operations Management | https://github.com/shehanau/secure-hybrid-fabric/tree/main/05-ops-management   |
 
 ---
 
-## Technologies
+## Technical Focus
 
 ### Networking
-Cisco • Fortinet • SD-WAN • BGP • VLANs • QoS • VPN
+
+Cisco • Fortinet • BGP • OSPF • SD-WAN • VLAN Design • QoS • VPN
 
 ### Cloud
-Azure • AWS • Microsoft 365 • Entra ID
+
+Microsoft Azure • Microsoft 365 • Entra ID • Terraform
 
 ### Security
-IAM • ACLs • IPS • MFA • Conditional Access
 
-### Systems
+IAM • ACL • IPS • MFA • Conditional Access • EDR
+
+### Infrastructure
+
 Windows Server • VMware • Hyper-V • Active Directory
 
 ### Endpoint Management
-Intune • SCCM • MDT • JAMF
+
+Microsoft Intune • SCCM • MDT • JAMF
 
 ---
 
-## Featured Repository
+## Current Work
 
-🔹 Secure Hybrid Fabric
+The Secure Hybrid Fabric portfolio currently includes:
 
-A practical enterprise infrastructure portfolio demonstrating architecture, implementation, migration, security, and operational practices.
+* Enterprise BGP Architecture
+* VLAN Design Standards
+* IP Addressing Frameworks
+* Security Reference Architectures
+* Hybrid Cloud Connectivity
+* Endpoint Governance
+* Operational Runbooks
 
 ---
 
 ## Certifications
 
-- AZ-900
-- SC-900
-- Security+
-- CCNA - Expired (In Progress)
-- CCNP - Expired (In Progress)
+* Microsoft Azure Fundamentals (AZ-900)
+* Microsoft Security, Compliance and Identity Fundamentals (SC-900)
+* CompTIA Security+
+* Cisco CCNA (Renewal In Progress)
+* Cisco CCNP (Renewal In Progress)
 
 ---
 
-## Connect
+## Professional Links
 
-LinkedIn: https://www.linkedin.com/in/shehandondeenu/
+LinkedIn
+https://www.linkedin.com/in/shehandondeenu/
 
-GitHub: https://github.com/shehanau
+GitHub
+https://github.com/shehanau
